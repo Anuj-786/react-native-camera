@@ -1,0 +1,7 @@
+# Cordova
+Club/platforms
+Club/plugins
+
+#for react-native
+node_modules
+android 
